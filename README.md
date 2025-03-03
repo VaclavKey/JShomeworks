@@ -1,2 +1,2 @@
 # JShomeworks
-Домашки по JS из колледжа
+from college
